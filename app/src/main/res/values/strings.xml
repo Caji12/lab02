@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="jugar">¡Jugar!</string>
+    <string name="boton_selecciona">Clic para jugar</string>
+    <string name="boton_descripcion">Botón para marcar cruz o círculo</string>
+
+</resources>
